@@ -1,4 +1,4 @@
-linkypedia
+linkypedia - see how wikipedia uses your website information
 ==========
 
 linkypedia is a webapp for seeing how 3rd party web content is being used on 
